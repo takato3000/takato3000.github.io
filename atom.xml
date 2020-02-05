@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://localhost:4000</id>
+    <id>https://takato3000.github.io</id>
     <title>Mana Confluence</title>
-    <updated>2020-02-05T20:56:35.419Z</updated>
+    <updated>2020-02-05T23:26:07.192Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://localhost:4000"/>
-    <link rel="self" href="http://localhost:4000/atom.xml"/>
-    <logo>http://localhost:4000/images/avatar.png</logo>
-    <icon>http://localhost:4000/favicon.ico</icon>
+    <link rel="alternate" href="https://takato3000.github.io"/>
+    <link rel="self" href="https://takato3000.github.io/atom.xml"/>
+    <logo>https://takato3000.github.io/images/avatar.png</logo>
+    <icon>https://takato3000.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Mana Confluence</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>http://localhost:4000/post/hello-gridea</id>
-        <link href="http://localhost:4000/post/hello-gridea">
+        <id>https://takato3000.github.io/post/hello-gridea</id>
+        <link href="https://takato3000.github.io/post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
